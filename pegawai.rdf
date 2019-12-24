@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<rdf:RDF
+		xmlns:rdf  = "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+		xmlns:rdfs = "http://www.w3.org/2000/01/rdf-schema#"
+		xmlns:foaf = "http://xmlns.com/foaf/0.1/"
+		xmlns:dc = "http://purl.org/dc/terms/"
+		xmlns:sn = "http://www.snee.com/hr/">
+
+	<rdf:Description rdf:about="http://xmlns.com/foaf/0.1/">
+		<foaf:title>
+			<rdf:Description rdf:about="Arnold_Poernomo">
+			<foaf:name>Arnold Poernomo</foaf:name>
+			<dc:abstract>Pemilik nama lengkap Arnold Poernomo ini sudah masuk ke dunia dapur sejak usia 14 tahun. Cerita berawal ketika Arnold kecil berusia 10 tahun pindah ke Sydney, Australia. Di sana, peluang untuk menekuni dunia masak semakin terbuka.</dc:abstract>
+			<dc:description>Ketika memulai kariernya, dia bekerja di beberapa restoran di Sydney sebagai pencuci piring hingga akhirnya diperkenalkan dengan berbagai teknik memasak. Tidak hanya itu, ilmu Front of House hingga dunia dapur ia dapatkan hingga akhirnya menjadi chef profesional saat ini.Setelah menjadi bintang tamu di MasterChef Indonesia musim ke 2, Chef Arnold tidak pernah menyangka akan bergabung menjadi juri di MasterChef Indonesia musim ke 3 (MCI 3).
+			</dc:description>
+			<foaf:birthday>1988-08-18</foaf:birthday>
+			<sn:hireDate>2015-02-13</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Farah_Quinn">
+			<foaf:name>Farah Quinn</foaf:name>
+			<dc:abstract>Farah mengakui bahwa dirinya bukanlah tipikal pekerja kantoran. Karena itulah Farah memulai kariernya di "Lydia's Pittsburgh", sebuah restoran Italia terkenal di Pittsburgh, Pennsylvania. Ia juga melanjutkan pendidikannya di Pittsburgh Culinary Institute dan mengambil keahlian khusus dalam bidang pastry atau kue-kue.Pada tahun 2003, ia membuka restoran sendiri "Camus" di Phoenix, Arizona. Restoran itu dianugerahi 4 bintang untuk masakan dan juga banyak penghargaan lainnya. Farah memperoleh banyak ketenaran. Gara-gara restorannya, nama Farah mulai tenar. Ia kerap tampil di beberapa koran dan majalah. "Camus" kemudian telah dijualnya. 
+			</dc:abstract>
+			<dc:description>Ia kemudian bekerja di Arizona Biltmore Resort. Farah juga sempat mengikuti World Pastry Championship dan mendapatkan kesempatan belajar memasak pada Chef Ewald Notter and Colette Peters. Tahun 2005, keberuntungan membawa Farah dalam acara pertemuan G8 di Sea Island Georgia. Di bawah bimbingan Chef James Mullaney, ia menciptakan menu dessert yang spesial. Hidangan penutup itu disajikan untuk beberapa orang seperti Ibu Negara Laura Bush dan delegasi dunia lain.
+			</dc:description>
+			<foaf:birthday>1980-04-08</foaf:birthday>
+			<sn:hireDate>2016-09-20</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Degan_Septoadji">
+			<foaf:name>Degan Septoadji</foaf:name>
+			<dc:abstract>Tiga puluh tahun berkiprah di dunia kuliner, membuat Chef Degan khatam dengan seluk beluk dunia memasak.
+			</dc:abstract>
+			<dc:description>
+			Sama seperti Chef Vindex, pria bernama lengkap Degan Septoadji Supriyadi ini tak mau kontestan yang berlaga di program 'MasterChef Indonesia 2' hanya memasak demi kepentingan mencari popularitas. 
+			</dc:description>
+			<foaf:birthday>1967-09-01</foaf:birthday>
+			<sn:hireDate>2013-11-25</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Juna_Rorimpandey">
+			<foaf:name>Juna Rorimpandey</foaf:name>
+			<dc:abstract>Selama 12 tahun dihabiskan di luar negeri, Juna merupakan koki dengan spesialisasi dalam masakan Jepang dan masakan Prancis. Dia mengaku masuk ke dunia kuliner karena suatu "kecelakaan" yang mana sebelumnya dia sempat mengikuti studi di Amerika untuk menjadi seorang pilot pesawat terbang.Pada Oktober 2016, Juna membuka restoran pertamanya bernama "Correlate" yang terletak di lantai lobi gedung Menara Rajawali, Kuningan, Jakarta Selatan.
+			</dc:abstract>
+			<dc:description>
+			Chef Juna adalah seorang koki selebriti yang menjadi terkenal setelah menjadi juri di acara memasak MasterChef. Ia sudah mengundurkan diri dari jabatannya yaitu Executive Chef di Restoran Jack Rabbit Jakarta pada akhir Juli 2011. Saat ini ia menjadi juri di acara MasterChef Indonesia. 
+			</dc:description>
+			<foaf:birthday>1975-07-20</foaf:birthday>
+			<sn:hireDate>2017-10-30</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Bara_Raoul_Pattiradjawane">
+			<foaf:name>Bara Raoul Pattiradjawane</foaf:name>
+			<dc:abstract>Wajah pria kelahiran Jakarta, 9 Juli 1964, ini akrab di antara pemirsa televisi sebagai bintang iklan keju, dan host acara masak-memasak bertajuk gula-gula di Trans TV. Punya paras ganteng khas Indonesia Timur membuat Bara Pattiradjawane semakin dikenal oleh masyarakat. Para penggemar acara masak-memasak yang ditukangi Bara Raoul Pattiradjawane atau yang lebih dikenal dengan Bara Pattiradjawane pasti bisa membedakan gaya memasak pria berparas tampan ini dengan trademark memasak sembari diselingi gerakan cepat akrobatik ketika memegang perkakas memasak.Sosok Bara memang piawai meracik berbagai bahan masakan. Ia gesit mengaduk adonan, memasukkan loyang ke oven. Ia juga terampil menghias makanan, sehingga terlihat menarik dan tentu bercita rasa tinggi. ia memang sudah lihai dalam urusan kuliner sejak umur 13 tahun. Bahkan Bara kecil menganggap dapur sebagai tambatan hatinya. Meski sempat malang melintang dengan kuliah di bidang politik, design dan modelling, pria berdarah Ambon-Manado ini akhirnya memilih kembali ke dapur untuk menjadi juru masak. 
+			</dc:abstract>
+			<dc:description>
+			Seorang juru masak yang menjadi host di acara Gula-Gula yang ditayangkan di stasiun televisi Trans TV yang dimulai tahun 2005. Ia merasa kurang nyaman dijuluki celebrity chef. Ia telah menulis beberapa buku memasak antara lain Puding Dalam Gelas, Creative Cooking Strawberry, Creative Cooking Apel, Creative Cooking Jeruk, Masak Seru Bareng Si Tukang Masak dan Catatan Dari Balik Dapur Si Tukang Masak. Pada 1995, Ia membuka restoran yang dia beri nama GulaGoela.
+			</dc:description>
+			<foaf:birthday>1964-07-19</foaf:birthday>
+			<sn:hireDate>2018-05-06</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Devina_Hermawan">
+			<foaf:name>Devina Hermawan</foaf:name>
+			<dc:abstract>Devina sudah memiliki ketertarikan di dunia masak sejak duduk di bangku SMA. Melalui berbagai buku masak dan kanal YouTube, Devina kerap mempraktikkan kegemaran memasaknya untuk mengisi acara di rumah dan di sekolah.Lepas SMA, Devina melanjutkan kuliah di jurusan Manajemen Bisnis di Institut Teknologi Bandung, Indonesia. Di samping kuliah Devina juga melayani permintaan private-dining untuk kerabat keluarga. 
+			</dc:abstract>
+			<dc:description>
+			seorang ibu rumah tangga yang menduduki posisi finalis ketujuh (Top 7) di acara televisi MasterChef Indonesia (musim kelima) yang tayang di stasiun televisi RCTI. 
+			</dc:description>
+			<foaf:birthday>1993-11-11</foaf:birthday>
+			<sn:hireDate>2014-03-04</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Rudy_Choirudin">
+			<foaf:name>Rudy Choirudin</foaf:name>
+			<dc:abstract>sebagai ahli boga dan pengisi acara masak-memasak baik di televisi maupun dalam acara off air. Rudy juga dikenal berkat inovasinya dalam pembuatan bumbu dasar. Selain itu, Rudy juga menulis beberapa buku mengenai resep masakan. Ia kerap disebut sebagai juru masak terbaik di kategori masakan khas Indonesia terutama masakan rumahan yang kerap dijadikan referensi bagi ibu-ibu rumah tangga. 
+			</dc:abstract>
+			<dc:description>
+			Rudy pernah menjadi restaurant manager di Java Garden Restaurant (1988-1990), staff pengajar Lembaga Kuliner Indonesia (1990-1991), pembawa acara di salah satu Radio Wanita di Jakarta (1991-1994), dan staff khusus untuk redaksi masakan majalah wanita Kartini (1988-1995). Nama Rudy melejit berkat acara Selera Nusantara dan Resep Oke Rudy di RCTI yang diasuhnya.Selain aktif mengisi acara masak-memasak, Rudy juga cukup aktif menulis buku. Beberapa bukunya antara lain Resep Praktis Dengan Bumbu Dasar Merah (2001), Hidangan Nusantara (2000), Cake Cantik dalam Plastik Mika (2004), Seri Mini Layer Cake: Fruit (2007), dan Seri Mini Layer Cake: Cheese (2007). 
+			</dc:description>
+			<foaf:birthday>1964-10-24</foaf:birthday>
+			<sn:hireDate>2012-08-15</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Aiko_Sarwosri_Isra">
+			<foaf:name>Aiko Sarwosri Isra</foaf:name>
+			<dc:abstract>
+			adalah model, koki dan selebritis berkebangsaan Indonesia. Ia mulai dikenal luas setelah memandu acara kuliner Warna di Trans7.
+			</dc:abstract>
+			<dc:description>
+			Berkarir sebagai chef di acara tv yaitu Warna (Trans7),Dapur Cantik,Dapoer Cobek (Global TV),
+			Dapur Mama Seru (Antv)
+			</dc:description>
+			<foaf:birthday>1989-05-06</foaf:birthday>
+			<sn:hireDate>2014-09-14</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Rinrin_Marinka">
+			<foaf:name>Rinrin Marinka</foaf:name>
+			<dc:abstract>
+			Hobi memasaknya tumbuh sejak SD. Ia lulusan dari Le Cordon Bleu, Sydney, Australia dengan keahlian khusus French Cuisine dan Patisserie. Ia juga mengajar di Pantry Magic Cooking School, Kemang.
+			</dc:abstract>
+			<dc:description>
+			Berkarir sebagai chef di acara tv yaitu Kuis Rejeki Ramadhan Sasa (Trans 7),MasterChef Indonesia (RCTI),MasterClass (RCTI),Junior MasterChef Indonesia (RCTI),Wonderful Indonesia Flavours (Asian Food Channel),At home with Marinka (Asian Food Channel)
+			</dc:description>
+			<foaf:birthday>1980-03-22</foaf:birthday>
+			<sn:hireDate>2016-01-20</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+		<foaf:title>
+			<rdf:Description rdf:about="Edwin_Lau">
+			<foaf:name>Edwin Lau</foaf:name>
+			<dc:abstract>
+			Edwin tidak memiliki latar belakang sebagai koki. Ayahnya seorang kontraktor, sedangkan ibunya adalah ibu rumah tangga. Edwin awalnya juga tak pandai memasak. Tapi ketekunan sekaligus keyakinan untuk menekuni bidang ini membuka pintu-pintu kesuksesan.Edwin mulai terjun dan jatuh cinta pada dunia kuliner ketika kuliah D-3 di Jurusan Perhotelan Pariwisata Akademi Pelita Harapan. Saat kuliah, dia sempat magang di Sakana Japanese Restaurant, Jakarta. Dia lalu menjadi koki di The Ritz-Carlton Bali dan Grand Hyatt Jakarta. Dari riwayat kariernya, dia banyak menangani masakan Jepang. Dalam perjalanannya, Edwin kemudian memutuskan untuk menjadi healthy chef. Kemudian ia belajar tentang nutrisi di Food and Drug Administration (FDA). 
+			</dc:abstract>
+			<dc:description>
+			Kariernya menanjak cepat ketika menjadi finalis Men's Health Be Our Cover pada 2006. Bentuk tubuhnya yang kekar dan sehat memperkuat citranya sebagai koki makanan sehat. Ia gemar olahraga sejak kecil. Edwin punya pola makan yang berbeda dengan orang kebanyakan. Makanannya dikukus atau dipanggang, tidak pakai garam, minyak, gula, dan bumbu. Perubahan pola makan itu terjadi ketika ia sadar bahwa ada sejumlah anggota keluarganya yang terkena penyakit gula dan kanker. Itu juga memberi nilai positif untuk bidang yang dipilihnya.
+			</dc:description>
+			<foaf:birthday>1982-11-16</foaf:birthday>
+			<sn:hireDate>2015-08-08</sn:hireDate>
+			</rdf:Description>
+		</foaf:title>
+
+	</rdf:Description>
+</rdf:RDF>

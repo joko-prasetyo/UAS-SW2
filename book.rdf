@@ -1,0 +1,88 @@
+<rdf:RDF xmlns:lib="http://perpus.com/" 
+  xmlns:dc="http://dublincore.org/documents/dces/" 
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <lib:Book rdf:about="http://dbpedia.org/resource/Chesapeake_(novel)">
+    <dc:title>Chesapeake_(novel)</dc:title>
+    <dc:authors>James A. Michener</dc:authors>
+    <dc:publishers>Random_House</dc:publishers>
+    <dc:numPages>865</dc:numPages>
+    <dc:isbn>0-394-50079-2</dc:isbn>
+    <dc:releaseDate>1978-06-12</dc:releaseDate>
+    <dc:genre>Historical_novel</dc:genre>
+    <dc:abstract>Chesapeake is a novel by James A. Michener, published by Random House in 1978. The story deals with several families living in the Chesapeake Bay area, from 1583 to 1978.</dc:abstract>
+    <dc:country>United_States</dc:country>
+    <dc:id>3413129</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/1.jpg</dc:url>
+  </lib:Book>
+  <lib:Book rdf:about="http://dbpedia.org/resource/Tanequil">
+    <dc:title>Tanequil</dc:title>
+    <dc:authors>Terry_Brooks</dc:authors>
+    <dc:publishers>Del_Rey_Books</dc:publishers>
+    <dc:numPages>368</dc:numPages>
+    <dc:isbn>0-345-43574-5</dc:isbn>
+    <dc:releaseDate>2004-08-31</dc:releaseDate>
+    <dc:genre>Fantasy_novel</dc:genre>
+    <dc:abstract>Tanequil is a fantasy novel in the High Druid of Shannara trilogy of the Shannara series by Terry Brooks. First published in 2004, the book takes place immediately after the events of Jarka Ruus and is followed by the novel Straken.</dc:abstract>
+    <dc:country>United_States</dc:country>
+    <dc:id>2602588</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/2.jpg</dc:url>
+  </lib:Book>
+  <lib:Book rdf:about="http://dbpedia.org/resource/Daughter_of_Eden">
+    <dc:title>Daughter_of_Eden</dc:title>
+    <dc:authors>Chris_Beckett</dc:authors>
+    <dc:publishers>Corvus_(publisher)</dc:publishers>
+    <dc:numPages>400</dc:numPages>
+    <dc:isbn>978-1782392385</dc:isbn>
+    <dc:releaseDate>2016-10-06</dc:releaseDate>
+    <dc:genre>Social_science_fiction</dc:genre>
+    <dc:abstract>Daughter of Eden is a social science fiction novel by British author Chris Beckett, first published in the United Kingdom in October 2016.</dc:abstract>
+    <dc:country>United_Kingdom</dc:country>
+    <dc:id>52011975</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/3.jpg</dc:url>
+  </lib:Book>
+  <lib:Book rdf:about="http://dbpedia.org/resource/Deadly,_Unna%3F">
+    <dc:title>Deadly,_Unna%3F</dc:title>
+    <dc:authors>Phillip_Gwynne</dc:authors>
+    <dc:publishers>Penguin_Books</dc:publishers>
+    <dc:numPages>288</dc:numPages>
+    <dc:isbn>0141300493</dc:isbn>
+    <dc:releaseDate>1998-04-30</dc:releaseDate>
+    <dc:genre>Novel</dc:genre>
+    <dc:abstract>Deadly, Unna? is a work of teenage fiction and is Phillip Gwynne&#39;s debut novel. Set in a small coastal town in South Australia, it is a rites-of-passage story about the interracial friendship between Australian rules football teammates Gary &quot;Blacky&quot; Black, a white boy, and Nunga Dumby Red. The novel is written from Blacky&#39;s point of view and covers the period leading up to the local football grand final and the summer after. A film adaptation, Australian Rules was released in 2002.</dc:abstract>
+    <dc:country>Australia</dc:country>
+    <dc:id>21385752</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/4.jpg</dc:url>
+  </lib:Book>
+  <lib:Book rdf:about="http://dbpedia.org/resource/The_Hydrofoil_Mystery">
+    <dc:title>The_Hydrofoil_Mystery</dc:title>
+    <dc:authors>Eric_Walters</dc:authors>
+    <dc:publishers>Viking_Press</dc:publishers>
+    <dc:numPages>224</dc:numPages>
+    <dc:isbn>978-0-670-88186-4</dc:isbn>
+    <dc:releaseDate>2003-11-25</dc:releaseDate>
+    <dc:genre>Young_adult_novel</dc:genre>
+    <dc:abstract>The Hydrofoil Mystery was written in 2003 by Canadian author Eric Walters. It is about a teenage boy named Billy McCracken whose mother arranges for him to go away for the summer to work with none other than the well-known inventor of the telephone, Alexander Graham Bell. Billy expects his summer to be boring, but with the German U-boats endangering the maritime coast, his work with Bell&#39;s hydrofoil becomes an adventure. This book is often chosen by teachers in Ontario, Canada as part of the ESL, Level C curriculum. The book is set during the first World War and although it is a work of fiction, it serves as a launching pad for discussions about Canada&#39;s involvement in the war and the contributions of Canada&#39;s leading scientist, Alexander Graham Bell.</dc:abstract>
+    <dc:country>Canada</dc:country>
+    <dc:id>9714255</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/5.jpg</dc:url>
+  </lib:Book>
+  <lib:Book rdf:about="http://dbpedia.org/resource/For_the_Win">
+    <dc:title>For_the_Win</dc:title>
+    <dc:authors>Cory_Doctorow</dc:authors>
+    <dc:publishers>Tor_Books</dc:publishers>
+    <dc:numPages>480</dc:numPages>
+    <dc:isbn>978-0-7653-2216-6</dc:isbn>
+    <dc:releaseDate>2010-05-11</dc:releaseDate>
+    <dc:genre>Young-adult_fiction</dc:genre>
+    <dc:abstract>For the Win is the second young adult science fiction novel by Canadian author Cory Doctorow. It was released in May 2010. The novel is available free on the author&#39;s website as a Creative Commons download, and is also published in traditional paper form by Tor Books. The book is centered on massively multiplayer online role-playing games. Even though the novel is targeted toward young adults, it takes on significant concepts such as macroeconomics and labor rights. It covers the new and fast evolving concept of virtual economy. It also deals with MMORPG specific topics like gold farming and power-leveling.</dc:abstract>
+    <dc:country>United_States</dc:country>
+    <dc:id>26982837</dc:id>
+    <dc:lang>English_language</dc:lang>
+    <dc:url>gbrbuku/6.jpg</dc:url>
+  </lib:Book>
+</rdf:RDF>
